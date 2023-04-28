@@ -6,8 +6,8 @@ This is a classic Snake game implementation using Python's Pygame and Tkinter li
 ## Installation:
 To run this game, you need to install Python 3 and the following libraries:
 
-- Pygame
-- Tkinter
+- `Pygame`
+- `Tkinter`
 
 You can install these libraries using pip:
 ```python
@@ -15,7 +15,7 @@ pip install pygame
 pip install tkinter
 ```
 ## Usage:
-To run the game, simply run the `'snake_game.py'` file in the terminal or Python IDE. The game will start running and the user can use arrow keys to move the snake in the desired direction. The objective is to eat the food and avoid hitting the walls or the snake's body.
+To run the game, simply run the `snake_game.py` file in the terminal or Python IDE. The game will start running and the user can use arrow keys to move the snake in the desired direction. The objective is to eat the food and avoid hitting the walls or the snake's body.
 
 ## Features:
 - The game has a GUI interface built using the Tkinter library.
@@ -25,7 +25,7 @@ To run the game, simply run the `'snake_game.py'` file in the terminal or Python
 - The game keeps track of the player's high score.
 - The game can be reset to start over.
 ## Code:
-The code is structured using two classes: `Cube` and `Snake`. `Cube` represents a single block on the game board and `Snake` is responsible for handling the snake's movement and interactions with the board. The game logic is written in the `'snake_game.py'` file.
+The code is structured using two classes: `Cube` and `Snake`. `Cube` represents a single block on the game board and `Snake` is responsible for handling the snake's movement and interactions with the board. The game logic is written in the `snake_game.py` file.
 
 ## Contributing:
 Contributions are welcome! If you have any suggestions or improvements, please create a [pull request]() on [GitHub]().
