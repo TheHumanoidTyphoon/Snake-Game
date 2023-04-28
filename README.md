@@ -28,7 +28,7 @@ To run the game, simply run the `snake_game.py` file in the terminal or Python I
 The code is structured using two classes: `Cube` and `Snake`. `Cube` represents a single block on the game board and `Snake` is responsible for handling the snake's movement and interactions with the board. The game logic is written in the `snake_game.py` file.
 
 ## Contributing:
-Contributions are welcome! If you have any suggestions or improvements, please create a [pull request]() on [GitHub]().
+Contributions are welcome! If you have any suggestions or improvements, please create a [pull request](https://github.com/TheHumanoidTyphoon/snake-game/pulls) on [GitHub](https://github.com/TheHumanoidTyphoon/snake-game).
 
 ## License:
-This game is licensed under the MIT License. See the [LICENSE]() file for details.
+This game is licensed under the MIT License. See the [LICENSE](https://github.com/TheHumanoidTyphoon/snake-game/blob/master/LICENSE) file for details.
